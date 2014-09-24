@@ -1,0 +1,54 @@
+/**
+* class="fa fa-download"
+
+class="star-primary"
+
+rgba(24,188,156,.9);
+*#18B
+*/
+
+
+nav{
+	background-color: #FF8D00 !important;	
+}
+
+header{
+	background-color: #444444 !important;
+}
+
+section[id="about"]{
+	background-color: #444444 !important;
+}
+
+footer > div[class="footer-above"]{
+	background-color: #FF8D00 !important;	
+}
+
+footer > div[class="footer-below"]{
+	background-color: #444444 !important;	
+}
+
+button{
+	color: #444444 !important; 
+	background-color: #FF8D00 !important;
+	border :#FF8D00 !important;
+}
+
+a:hover{
+	color: #444444 !important; 
+}
+
+a:focus{
+	color: #444444 !important;
+}
+
+div[class="row control-group"] > div{
+	border:1px solid #444444 !important;
+	border-radius: 10px !important;
+	margin-top: 5px !important;
+}
+
+div[class="row control-group error"] > div[class="form-group col-xs-12 floating-label-form-group controls"]{
+	border:1px solid #444444;
+	margin-top: 5px;
+}
